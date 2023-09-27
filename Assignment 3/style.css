@@ -1,0 +1,56 @@
+img{
+    width: 300px;
+    height: 150px;
+    }
+
+.grayscale
+   {
+      filter: grayscale(100%);
+    }
+
+.blur {
+      filter:blur(2px);
+      }     
+
+.saturate {
+  filter: saturate(8);
+}
+
+.opacity {
+  filter: opacity(0.3);
+}
+
+    .box {
+        background-color: lightgreen;
+        border-radius: 10px;
+        width: 300px;
+        height: 300;
+        border: 3px solid red;
+        padding-top: 5px;
+        padding-right: 150px;
+        padding-bottom: 50px;
+        padding-left: 150px;
+        margin-left: 100px;
+        margin-right: 50px;
+        margin-top: 25px;
+        margin-bottom: 0px;
+        text-align: center;
+      }
+
+      div {
+        float: left;
+        padding: 50px; 
+      }
+
+      h1 {
+        text-align: center;
+      }
+
+      p {
+        text-align: center;
+      }
+
+      
+    
+
+      
